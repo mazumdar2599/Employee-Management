@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 A web-based application for managing employee records, including adding, updating, and deleting employee details. It features a user-friendly interface for efficient employee management and data visualization.
 
-Tech Used: Angular (Frontend), JSON server, SCSS.
+Tech Used: Angular (Frontend), JSON server, SCSS, Typescript.
 
 ## Development server
 
